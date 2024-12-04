@@ -2,7 +2,7 @@
 
 <!--
 **cheolding119/cheolding119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![배지 이름](https://img.shields.io/badge/버전-v1.0-blue)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
