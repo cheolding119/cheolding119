@@ -1,6 +1,6 @@
 ## 안녕 모두들 👋
 
-### 깃허브 아이디를 잃어버린 기념으로 새로 만든  
+### 깃허브 아이디를 잃어버린 기념으로 새로 만든  Git-hub
 - - - 
 ![배지 이름](https://img.shields.io/badge/버전-v1.0-blue)
 ![배지 이름](https://img.shields.io/badge/화이팅!-8A2BE2)
