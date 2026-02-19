@@ -1,5 +1,13 @@
 
 
+## 👨‍💻 개발자 소개 (About Me)
+
+**"기획 단계부터 데이터 구조적 결함을 파악하고, 사전에 예방하는 백엔드 개발자"**
+
+- **Name**: 철딩 (Cheolding)
+- **Email**: xogus2168@gmail.com
+- **Blog**: [cheolddings.tistory.com](https://cheolddings.tistory.com/)
+- **GitHub**: [github.com/cheolding119](https://github.com/cheolding119)
 
 
 <br>
@@ -44,13 +52,4 @@
 
 <br>
 
-<br>
 
-## 👨‍💻 개발자 소개 (About Me)
-
-**"기획 단계부터 데이터 구조적 결함을 파악하고, 사전에 예방하는 백엔드 개발자"**
-
-- **Name**: 철딩 (Cheolding)
-- **Email**: xogus2168@gmail.com
-- **Blog**: [cheolddings.tistory.com](https://cheolddings.tistory.com/)
-- **GitHub**: [github.com/cheolding119](https://github.com/cheolding119)
